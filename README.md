@@ -60,5 +60,5 @@ npm run dev
 
 MIT
 
-[!Note]
-ChatGPT was used as a supporting tool in the implementation of this project.
+>[!Note]
+>ChatGPT was used as a supporting tool in the implementation of this project.
